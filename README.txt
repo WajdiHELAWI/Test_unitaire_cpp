@@ -9,4 +9,5 @@ $ cmd 4 : cmake ..
 $ cmd 5 : make 
 $ cmd 6 : ./mainApp
 $ cmd 7 : ls _deps/ 
-$ cmd 8 : ./testRunner ```
+$ cmd 8 : ./testRunner 
+```
