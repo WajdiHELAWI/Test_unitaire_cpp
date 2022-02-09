@@ -1,4 +1,4 @@
-This is ana exemple of how to do an unite test using google test (gtest)
+This is an exemple of how to do an unite test using google test (gtest)
 
 To compile this project:
 ```bash
